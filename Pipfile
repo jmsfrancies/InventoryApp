@@ -6,7 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-django = "*"
+masonite-cli = "*"
+masonite = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
